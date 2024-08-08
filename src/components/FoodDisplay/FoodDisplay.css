@@ -10,6 +10,6 @@
 .food-display-list {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-    gap: 30.001px;
-    margin-top: 20.01px;
+    gap: 30px;
+    margin-top: 20px;
 }
