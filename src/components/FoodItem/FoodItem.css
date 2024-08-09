@@ -52,7 +52,7 @@
 }
 .food-item-counter{
     position: absolute;
-    bottom: 15.02px;
+    bottom: 15px;
     right: 15px;
     display: flex;
     align-items: center;
